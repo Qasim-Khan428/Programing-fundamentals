@@ -1,0 +1,5 @@
+![page 1](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/a0444cfd919972005b1aa469047f8502564fa37e/Assignement%201/Part%20B/images/Part%20B%20Q1_page-0001.jpg)
+![page 2](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/a0444cfd919972005b1aa469047f8502564fa37e/Assignement%201/Part%20B/images/Part%20B%20Q1_page-0002.jpg)
+![page 3](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/a0444cfd919972005b1aa469047f8502564fa37e/Assignement%201/Part%20B/images/Part%20B%20Q1_page-0003.jpg)
+![page 4](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/a0444cfd919972005b1aa469047f8502564fa37e/Assignement%201/Part%20B/images/Part%20B%20Q1_page-0004.jpg)
+![page 5](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/a0444cfd919972005b1aa469047f8502564fa37e/Assignement%201/Part%20B/images/Part%20B%20Q1_page-0005.jpg)
