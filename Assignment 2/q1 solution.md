@@ -1,1 +1,5 @@
-
+![Page 1](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/bcfca3ae4d0a95dfa0b7ec452dbd4942bac7342b/Assignment%202/Images/q1/Scanned_20261102-2221-01.jpg)
+![Page 2](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/bcfca3ae4d0a95dfa0b7ec452dbd4942bac7342b/Assignment%202/Images/q1/Scanned_20261102-2221-02.jpg)
+![Page 3](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/bcfca3ae4d0a95dfa0b7ec452dbd4942bac7342b/Assignment%202/Images/q1/Scanned_20261102-2221-03.jpg)
+![Page 4](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/bcfca3ae4d0a95dfa0b7ec452dbd4942bac7342b/Assignment%202/Images/q1/Scanned_20261102-2221-04.jpg)
+![Page 5](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/bcfca3ae4d0a95dfa0b7ec452dbd4942bac7342b/Assignment%202/Images/q1/Scanned_20261102-2233.jpg)
