@@ -5,3 +5,4 @@
 ![page 5](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/5635930f6a0791e7d3ef2bf76c2c17fdfe854726/Assignment%202/Images/q5/Scanned_20261102-2227-05.jpg)
 ![page 6](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/5635930f6a0791e7d3ef2bf76c2c17fdfe854726/Assignment%202/Images/q5/Scanned_20261102-2227-06.jpg)
 ![page 7](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/5635930f6a0791e7d3ef2bf76c2c17fdfe854726/Assignment%202/Images/q5/Scanned_20261102-2227-07.jpg)
+![page 8](https://github.com/Qasim-Khan428/Programing-fundamentals/blob/21052badbdc032cd63cc0c176041dbf08a0b0492/Assignment%202/Images/q5/question%205%20output.png)
